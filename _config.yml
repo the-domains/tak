@@ -1,19 +1,4 @@
-name: tak
-favicon: null
-layout_spectrum: 0.74887
-typography_spectrum: 0.13639
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -23,9 +8,12 @@ color:
     - '#A2E3C4'
   brandStrength: 0.0625
   lightness: 0.9375
-  saturation: 0.526638
   rhythmicContrast: 0.75
+  saturation: 0.526638
+cta: {}
+layout_spectrum: 0.798423
+name: tak
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.13639
