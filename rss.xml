@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[tak]]></title>
         <description><![CDATA[tak]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tak/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 00:29:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 00:29:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tak/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64f7e8fd-c0d3-49f2-819a-6e5a912e917b.jpg">]]></description>
+            <link>https://thegrid.ai/tak/67c0ebda-5e63-4088-b431-f6e814d66495/index.html</link>
+            <guid isPermaLink="false">67c0ebda-5e63-4088-b431-f6e814d66495</guid>
+            <pubDate>Thu, 10 Dec 2015 00:29:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Das Kindergarten-Problem]]></title>
             <description><![CDATA[<article><h1>Das Kindergarten-Problem</h1><p>Die Wiener ÖVP wittert einen Skandal, die "Krone" unterstützt sie dabei kräftig, die zuständige Stadträtin Sonja Wehsely bremst, und dennoch gibt es demnächst einen "Gipfel" mit dem Integrationsminister: Der Bericht des Wissenschafters Ednan Aslan, in dem unter anderem zu lesen ist, in muslimischen Kindergärten werde die Entstehung von Parallelgesellschaften zumindest begünstigt, birgt gesellschaftspolitischen Sprengstoff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51baa7eb8c5d86fec167eec03a1dc4c4341c9c4d.jpg"></article>]]></description>
