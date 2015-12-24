@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[tak]]></title>
         <description><![CDATA[tak]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tak/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 05:55:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 05:58:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tak/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Parlament leidet unter Taubenplage - wien.ORF.at]]></title>
+            <description><![CDATA[<article><h1>Parlament leidet unter Taubenplage - wien.ORF.at</h1><p>Das Parlament leidet seit Längerem unter einer Taubenplage. Derzeit würden Angebote geprüft, um gegen die Tiere vorzugehen, hieß es aus der Parlamentsdirektion. Tierschützer befürchten den Einsatz von Lebendfallen.</p></article>]]></description>
+            <link>http://wien.orf.at/news/stories/2749061/</link>
+            <guid isPermaLink="false">7645a377-31ec-49dd-b24f-2eac5623733d</guid>
+            <pubDate>Thu, 24 Dec 2015 05:57:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parlament leidet unter Taubenplage - wien.ORF.at]]></title>
             <description><![CDATA[<article><h1>Parlament leidet unter Taubenplage - wien.ORF.at</h1><p>Das Parlament leidet seit Längerem unter einer Taubenplage. Derzeit würden Angebote geprüft, um gegen die Tiere vorzugehen, hieß es aus der Parlamentsdirektion. Tierschützer befürchten den Einsatz von Lebendfallen.</p></article>]]></description>
