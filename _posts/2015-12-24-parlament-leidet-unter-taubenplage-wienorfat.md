@@ -12,8 +12,8 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://wien.orf.at/news/stories/2749061/'
 title: Parlament leidet unter Taubenplage - wien.ORF.at
-datePublished: '2015-12-24T05:57:55.750Z'
-dateModified: '2015-12-24T05:57:09.996Z'
+datePublished: '2015-12-24T05:58:24.135Z'
+dateModified: '2015-12-24T05:58:24.079Z'
 sourcePath: _posts/2015-12-24-parlament-leidet-unter-taubenplage-wienorfat.md
 published: true
 inFeed: true
