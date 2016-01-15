@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[tak]]></title>
         <description><![CDATA[tak]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tak/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 10:17:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 10:22:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tak/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mitterlehner: "Müssen weg von Willkommenskultur"]]></title>
+            <description><![CDATA[<article><h1>Mitterlehner: "Müssen weg von Willkommenskultur"</h1><p>Bad Leonfelden - Der Blick über die Weiten des verschneiten oberen Mühlviertels scheint grenzenlos. Und doch ist ebendort für die ÖVP dieser Tage die Grenze erreicht. Parteichef Reinhold Mitterlehner hat für zwei Tage zur Klubklausur in die Heimat geladen. Doch auch wenn mit dem kleinen Kurort Bad Leonfelden die Tagungsörtlichkeit durchaus beschaulich ist, die schwarzen Themen sind eher brisant.</p><img src="http://images.derstandard.at/2016/01/14/grenzenArtikelbild.jpg"></article>]]></description>
+            <link>http://mobil.derstandard.at/2000029052655/Asyl-OeVP-will-ab-kommender-Woche-Obergrenze</link>
+            <guid isPermaLink="false">20caee77-3369-4174-ab50-022cbbc93c3b</guid>
+            <pubDate>Fri, 15 Jan 2016 10:22:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comments]]></title>
-            <description><![CDATA[<article><h1>Comments</h1><p>Ich habe soeben Hausverbot im LaGeSo bekommen! Warum? Weil ich dem kleinen Jungen auf diesem Foto eine Ski-Hose anziehen wollte!!! Der Gipfel der Abscheulichkeit ist für mich nun wirklich erreicht! Mit mir haben auch noch Derya Stopwar, Hüseyin Husain und andere Helfer den offiziellen Rauswurf erteilt bekommen.</p><img src="https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-0/cp0/e15/q65/s200x200/1463473_10206749629472203_8608621685473409222_n.jpg?oh=57b9447ad64b32614fd1f753781ee6b6&oe=56FEB857"></article>]]></description>
+            <description><![CDATA[<article><h1>Comments</h1><p>Ich habe soeben Hausverbot im LaGeSo bekommen! Warum? Weil ich dem kleinen Jungen auf diesem Foto eine Ski-Hose anziehen wollte!!! Der Gipfel der Abscheulichkeit ist für mich nun wirklich erreicht! Mit mir haben auch noch Derya Stopwar, Hüseyin Husain und andere Helfer den offiziellen Rauswurf erteilt bekommen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7db330b75cb29c71b9013feb0d3a214758ddcabe.jpg"></article>]]></description>
             <link>https://m.facebook.com/story.php?story_fbid=10206749755115344&amp;id=1018747263</link>
             <guid isPermaLink="false">7bf26012-5d2f-4c10-81cd-16b500ba13aa</guid>
             <pubDate>Fri, 15 Jan 2016 10:17:37 GMT</pubDate>
