@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tak]]></title>
+        <description><![CDATA[tak]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 16:30:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Entwurf der Asyl-Notverordnung: "Totaler Zusammenbruch der Einrichtungen droht"]]></title>
+            <description><![CDATA[<article><h1>Entwurf der Asyl-Notverordnung: "Totaler Zusammenbruch der Einrichtungen droht"</h1><p>Wien - Eines scheint klar zu sein: Früher oder später wird die sogenannte Asyl-Notverordnung vor dem Europäischen Gerichtshof (EuGH) landen. Um die Chancen zu erhöhen, dass sie nicht gekippt wird, hat das Innenministerium in den vergangenen Wochen und Monaten fleißig Material dazu gesammelt, warum die öffentliche Ordnung und die innere Sicherheit in Österreich durch die hohe Zahl an Flüchtlingen gefährdet seien.</p><img src="http://images.derstandard.at/2016/08/31/fluechtlingeapavargaArtikelbild.jpg"></article>]]></description>
+            <link>http://derstandard.at/2000043618337/Asyl-Notverordnung-Totaler-Zusammenbruch-der-Einrichtungen-droht</link>
+            <guid isPermaLink="false">700a28c1-783c-4ff8-9131-8331102c18a3</guid>
+            <pubDate>Wed, 31 Aug 2016 16:30:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
